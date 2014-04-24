@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Extruder Fin.PcbDoc   4/23/2014  5:48:20 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Extruder Fin.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        13mil (0.3302mm)         Round          15               0.61 Inch (15.40 mm)
+T2        15mil (0.381mm)          Round          38               8.59 Inch (218.22 mm)
+T3        28mil (0.7112mm)         Round          9                2.99 Inch (76.05 mm)
+T4        35.43mil (0.89992mm)     Round          63               11.20 Inch (284.48 mm)
+T5        51.18mil (1.29997mm)     Round          2                0.20 Inch (5.08 mm)
+---------------------------------------------------------------------------
+Totals                                            127              23.59 Inch (599.24 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
