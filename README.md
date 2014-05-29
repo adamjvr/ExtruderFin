@@ -3,7 +3,9 @@ ExtruderFin
 
 A Kinen Fin to add support for 3D printer Extuder and Heated bed to a Kinen compatible TinyG board.
 To lear more about TinyG and Kinen visit the links below:
+
 https://github.com/synthetos/TinyG
+
 https://github.com/kinen/kinen/wiki
 
 Specs
