@@ -1,11 +1,14 @@
 ExtruderFin
 ===========
 
-A Kinen Fin to add support for 3D printer Extuder and Heated bed to a Kinen compatible TinyG board.
+A Kinen Fin to add support for 3D printer Extuder and Heated bed to a Kinen compatible TinyG board. This project is a redesign
+of the first Kinen fin for temperature control on the kinen platform found here https://github.com/Kinen/TempFin1 . This redesign
+transitions the platform away from the Atmel 328p to A FreeScale ARM Cortex M0+ for more performane per dollar. The system wide 
+reset is now jumperable so that the fin and the motherboard can be programmed/reset independently of eachother.
+
 To lear more about TinyG and Kinen visit the links below:
 
 https://github.com/synthetos/TinyG
-
 https://github.com/kinen/kinen/wiki
 
 Specs
