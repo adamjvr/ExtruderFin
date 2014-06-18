@@ -23,3 +23,7 @@ Specs
 - Compatible with the previous Kinen specification and the recently updated specifiation.
 
 ![Prototype 1](/V1.2%20Final.png)
+
+
+Recently Fabricated Prototype! 6/17/14
+![Fabricated Prototype](/IMG_1627.JPG)
